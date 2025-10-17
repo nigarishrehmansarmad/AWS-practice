@@ -1,1 +1,1 @@
-# AWS-practice
+# Repo for GitHub Action
